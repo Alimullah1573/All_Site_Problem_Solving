@@ -1,5 +1,4 @@
 
-# Problem link: https://atcoder.jp/contests/abc322/tasks/abc322_a
 
 strings = [input().strip() for _ in range(12)]
 count = 0
