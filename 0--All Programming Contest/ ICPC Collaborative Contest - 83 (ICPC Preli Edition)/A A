@@ -1,0 +1,14 @@
+
+
+# Problem Link: https://vjudge.net/contest/669749#problem/A
+
+
+a,b = map(int,input().split())
+A = a+b
+B = a-b
+C = a*b
+arr = [A,B,C]
+
+print(max(arr))
+
+
